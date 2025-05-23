@@ -1,2 +1,2 @@
 # number-guess-game-in-C
-This a number guessing game which is made by me on C programming language. In this game first you enter a number to guess then you have 3 attempts to guess a number if you guess correctly it print you won else print you lost.
+Developed a number guessing game using the C programming language. In the game, the user is asked to guess a number within three attempts. If the user guesses correctly, the game displays "You won"; otherwise, it shows "You lost." This project highlights skills in control flow, user input handling, and basic game logic implementation in C.​
